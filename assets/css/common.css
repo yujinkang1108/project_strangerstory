@@ -1,0 +1,43 @@
+body{
+    min-width: 1300px;
+}.blind{
+    width: 1px; height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    position: absolute;
+}
+.sc-inner{
+    padding: 200px 0;
+    transform: translate(90deg);
+}
+.page-inner{
+    padding-right: 3.75em;
+    padding-left: 3.75em;
+}
+.footer-inner{
+    padding-top: 6.25em;
+    padding-bottom: 2.5em;
+}
+.margin-bottom{
+    margin-bottom: 3em;
+}
+.margin-bottom-middle{
+    margin-bottom: 40px;
+}
+.margin-bottom-sm{
+    margin-bottom: 1rem;
+}
+.link-more{
+    padding: 0.9em 1.5em 0.7em;
+    border-radius: 0.375em;
+    background:var(--c-red);
+    text-transform: uppercase;
+    text-align: center;
+}
+.badge{
+    padding: 0.875em 1.25em 0.75em;
+    border-radius: 0.375em;
+    background:var(--c-red);
+    display: inline-block;   
+}

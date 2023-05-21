@@ -1,0 +1,12 @@
+/* Rooyinbeta */
+
+@font-face{
+    font-family: 'Rooyinbeta';
+    src: url(../fonts/RooyinBeta-Pixelness.woff2);
+    font-weight: 400;
+}
+@font-face{
+    font-family: 'Regarn';
+    src: url(../fonts/Regarn-Bold.woff);
+    font-weight: 700;
+}
